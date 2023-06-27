@@ -1,4 +1,7 @@
 React App with can Search movies and have Good UI UX and Modern Design
+Uses Omdb API to Fetch DATA 
+Used  modern React to build this single page web app
+Awsome CSS
 
 
 # Getting Started with Create React App
