@@ -1,10 +1,13 @@
-React App with can Search movies and have Good UI UX and Modern Design
-Uses Omdb API to Fetch DATA 
-Used  modern React to build this single page web app
-Awsome CSS
+# React App with can Search movies and have Modern Design
+- Uses Omdb API to Fetch DATA 
+- Used  modern React to build this single page web app
+- Modern Design
+- Awsome CSS
+![Screenshot (10)](https://github.com/paul-abhirup/MovieLand/assets/109401471/e888dfed-0b0b-4791-8fa2-83bfa39f199f)
 
+![Screenshot (11)](https://github.com/paul-abhirup/MovieLand/assets/109401471/67c4ada8-38f6-4c71-8854-ca2981fc57fe)
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
