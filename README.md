@@ -1,3 +1,6 @@
+React App with can Search movies and have Good UI UX and Modern Design
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
